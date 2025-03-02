@@ -1,4 +1,10 @@
 # Algorithm_study
+[https://plzrun.tistory.com/entry/알고리즘-문제풀이PS-시작하기](https://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4PS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+
+입출력 문제들을 풀 때 10분 이상 이 문제를 붙들고 있는 경우, 
+그건 입출력에서 뭔가 모르는 부분이 반드시 있다는 뜻이므로 
+이전 질문들을 무조건 찾아보고 다른 사람이 푼 코드를 반드시 봐야 함
+<br>
 ### 1주차: 기초 수학 및 입출력
 
 | 날짜 | 주제 | 문제 | ✅ |
